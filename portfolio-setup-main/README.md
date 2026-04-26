@@ -13,6 +13,11 @@
 5. Opened the repository in Cursor
 6. Created this README.md file and wrote everything here
 
+## What I did at the end
+- I initialized Git in Cursor
+- I committed my changes
+- I published the branch to GitHub
+
 ## Issues I faced
 - I had some difficulties logging into Claude Code and Codex
 - Some features required a subscription, which I didn’t have access to
