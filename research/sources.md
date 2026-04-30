@@ -4,7 +4,7 @@
 
 | # | Name | Role | YouTube | LinkedIn |
 |---|------|------|---------|----------|
-| 1 | Matt Diggity | SEO Agency Owner | [YouTube](https://www.youtube.com/@TopicalAuthority) | [LinkedIn](https://www.linkedin.com/in/mattdiggityseo/) |
+| 1 | Matt Diggity | SEO Agency Owner | [YouTube](https://www.youtube.com/@MattDiggity) | [LinkedIn](https://www.linkedin.com/in/mattdiggityseo/) |
 | 2 | Koray Tugberk Gübür | Semantic SEO Expert | [YouTube](https://www.youtube.com/@KorayTugberkGubur) | [LinkedIn](https://www.linkedin.com/in/koray-tugberk-gubur/?locale=en_US) |
 | 3 | Kevin Indig | Growth Advisor |    -   | [LinkedIn](https://www.linkedin.com/in/kevinindig/) |
 | 4 | Nathan Gotch | Gotch SEO Founder | [YouTube](https://www.youtube.com/@nathangotch) | [LinkedIn](https://www.linkedin.com/in/nathangotch/) |
