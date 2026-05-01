@@ -96,7 +96,7 @@ research/
 ├── sources.md                  # Full expert profiles with annotations
 ├── linkedin-posts/             # LinkedIn posts organized by author
 ├── youtube-transcripts/        # Transcripts + summaries organized by video
-└── other/                      # Additional materials
+└── other/                      # Additional materials.agencies/companies
 
 
 ---
