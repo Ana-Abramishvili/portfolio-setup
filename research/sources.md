@@ -12,7 +12,7 @@
 | 6 | Lily Ray | SEO Director, Amsive | [YouTube](https://www.youtube.com/@lilyray) | [LinkedIn](https://www.linkedin.com/in/lily-ray-44755615/) |
 | 7 | Aleyda Solis | Orainti Founder | [YouTube](https://www.youtube.com/@CrawlingMondaysbyAleyda) | [LinkedIn](https://www.linkedin.com/in/aleyda/) |
 | 8 | Neil Patel | NP Digital Co-Founder | [YouTube](https://www.youtube.com/@neilpatel) | [LinkedIn](https://www.linkedin.com/in/neilkpatel/) |
-| 9 | Brian Dean | Backlinko Founder |[YouTube] https://www.youtube.com/@BrianDean | [LinkedIn](https://www.linkedin.com/in/brianedean/) |
+| 9 | Brian Dean | Backlinko Founder |[YouTube] (https://www.youtube.com/@BrianDean) | [LinkedIn](https://www.linkedin.com/in/brianedean/) |
 | 10 | Tim Soulo | Ahrefs CMO | [YouTube](https://www.youtube.com/@ahrefspodcast) | [LinkedIn](https://www.linkedin.com/in/timsoulo/) |
 
 
